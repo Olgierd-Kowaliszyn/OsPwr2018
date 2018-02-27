@@ -1,0 +1,7 @@
+
+	1. Proces powinien być obiektem, bądź też zbiorem zmiennych (np. tablicą)
+
+	2. Proces powinien zawierać:
+
+		a) tablicę rozkazów (patrz commandSchema)
+		b) priorytet
