@@ -1,0 +1,10 @@
+  
+  Dane do zadania dostępne są tutaj:
+
+    https://docs.google.com/spreadsheets/d/1etMPYgepgskSzW-ycagofRrWKCGvuqX2Xvk_Gta4utg/edit?usp=sharing
+
+  Przypominam, że:
+  
+  1. Wejście procesu do procesora trwa 1 takt
+  2. Wyjście procesu z procesora trwa 1 takt
+  3. Przełączenie kontektu pomiędzy procesami trwa dodatkowy takt (dla algorytmu RR)
