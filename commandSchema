@@ -1,0 +1,10 @@
+
+	1. Rozkaz powinien być obiektem, bądź też zbiorem zmiennych (np. tablicą)
+
+	2. Rozkaz powinien zawierać:
+
+		a) czas trwania (w taktach)
+		b) informacje czy odwołuje się do urządzeń I/O
+
+		*Dla ambitnych co chcą dodać mutex:
+		c) do jakiej komórki pamięci się odwołuje (numer komurki)
